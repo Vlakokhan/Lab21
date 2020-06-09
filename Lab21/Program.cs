@@ -49,4 +49,4 @@ namespace Lab21
             Console.WriteLine(c);
         }
     }
-}
+} 
