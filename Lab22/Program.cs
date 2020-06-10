@@ -24,5 +24,5 @@ namespace Lab22
 
         }
     }
-}
+} 
 
