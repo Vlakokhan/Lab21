@@ -1,0 +1,13 @@
+C:\Users\vladi\RiderProjects\Lab23\Lab23\bin\Debug\netcoreapp3.1\Lab23.exe
+C:\Users\vladi\RiderProjects\Lab23\Lab23\bin\Debug\netcoreapp3.1\Lab23.deps.json
+C:\Users\vladi\RiderProjects\Lab23\Lab23\bin\Debug\netcoreapp3.1\Lab23.runtimeconfig.json
+C:\Users\vladi\RiderProjects\Lab23\Lab23\bin\Debug\netcoreapp3.1\Lab23.runtimeconfig.dev.json
+C:\Users\vladi\RiderProjects\Lab23\Lab23\bin\Debug\netcoreapp3.1\Lab23.dll
+C:\Users\vladi\RiderProjects\Lab23\Lab23\bin\Debug\netcoreapp3.1\Lab23.pdb
+C:\Users\vladi\RiderProjects\Lab23\Lab23\obj\Debug\netcoreapp3.1\Lab23.csprojAssemblyReference.cache
+C:\Users\vladi\RiderProjects\Lab23\Lab23\obj\Debug\netcoreapp3.1\Lab23.AssemblyInfoInputs.cache
+C:\Users\vladi\RiderProjects\Lab23\Lab23\obj\Debug\netcoreapp3.1\Lab23.AssemblyInfo.cs
+C:\Users\vladi\RiderProjects\Lab23\Lab23\obj\Debug\netcoreapp3.1\Lab23.csproj.CoreCompileInputs.cache
+C:\Users\vladi\RiderProjects\Lab23\Lab23\obj\Debug\netcoreapp3.1\Lab23.dll
+C:\Users\vladi\RiderProjects\Lab23\Lab23\obj\Debug\netcoreapp3.1\Lab23.pdb
+C:\Users\vladi\RiderProjects\Lab23\Lab23\obj\Debug\netcoreapp3.1\Lab23.genruntimeconfig.cache
