@@ -1,0 +1,13 @@
+C:\Users\vladi\RiderProjects\Lab25B\Lab25B\bin\Debug\netcoreapp3.1\Lab25B.exe
+C:\Users\vladi\RiderProjects\Lab25B\Lab25B\bin\Debug\netcoreapp3.1\Lab25B.deps.json
+C:\Users\vladi\RiderProjects\Lab25B\Lab25B\bin\Debug\netcoreapp3.1\Lab25B.runtimeconfig.json
+C:\Users\vladi\RiderProjects\Lab25B\Lab25B\bin\Debug\netcoreapp3.1\Lab25B.runtimeconfig.dev.json
+C:\Users\vladi\RiderProjects\Lab25B\Lab25B\bin\Debug\netcoreapp3.1\Lab25B.dll
+C:\Users\vladi\RiderProjects\Lab25B\Lab25B\bin\Debug\netcoreapp3.1\Lab25B.pdb
+C:\Users\vladi\RiderProjects\Lab25B\Lab25B\obj\Debug\netcoreapp3.1\Lab25B.csprojAssemblyReference.cache
+C:\Users\vladi\RiderProjects\Lab25B\Lab25B\obj\Debug\netcoreapp3.1\Lab25B.AssemblyInfoInputs.cache
+C:\Users\vladi\RiderProjects\Lab25B\Lab25B\obj\Debug\netcoreapp3.1\Lab25B.AssemblyInfo.cs
+C:\Users\vladi\RiderProjects\Lab25B\Lab25B\obj\Debug\netcoreapp3.1\Lab25B.csproj.CoreCompileInputs.cache
+C:\Users\vladi\RiderProjects\Lab25B\Lab25B\obj\Debug\netcoreapp3.1\Lab25B.dll
+C:\Users\vladi\RiderProjects\Lab25B\Lab25B\obj\Debug\netcoreapp3.1\Lab25B.pdb
+C:\Users\vladi\RiderProjects\Lab25B\Lab25B\obj\Debug\netcoreapp3.1\Lab25B.genruntimeconfig.cache
